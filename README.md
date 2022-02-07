@@ -40,6 +40,12 @@ Data Engineering
 <br/>
 
 
+<!-- status bar -->
+  <img src="https://github-readme-stats.vercel.app/api?username=whereyoulive&layout=compact&show_icons=true&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whereyoulive&layout=compact&theme=vue&hide_border=true" />
+
+
+
 ### Contach with me
 :iphone: 01030098818 <br/>
 :mailbox: pdg0526@gmail.com
