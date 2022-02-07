@@ -3,7 +3,10 @@
 
 ### About me!
  
+:alien: I'm still hungry. <br/>
+:raised_hands: [portpolio](https://pdg0526.notion.site/portfolio-31a1849c6bc5460484768613b3acb054)
 
+iphone: 01030098818
 
 
 
