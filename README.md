@@ -35,15 +35,17 @@ Data Engineering
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="50" height="50"/>
 
-
-
 </p>
+
 <br/>
+
+
 ### Contach with me
 :iphone: 01030098818 <br/>
 :mailbox: pdg0526@gmail.com
-<!--
 
+
+<!--
 ### Hi there 👋
 
 **whereyoulive/whereyoulive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
